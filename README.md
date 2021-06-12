@@ -1,2 +1,1 @@
-# Workday-Planner
-Homework #5
+A simple workday planner that displays the current date/time and allows a user to input details into a text box and save the data via a save button (into local storage). The user should be able to refresh the page and the inputted data will remain on the page. A user will also be able to see hourly time blocks that are color coded for past, present, and future. This enables the user to quickly glance at the workday planner to give the user a quick idea of current workday events.
